@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kommi-Kuma
 - 👀 I’m interested in ... Drawing and worldbuilding
-- 🌱 I’m currently learning ... CSS & html
+- 🌱 I’m currently learning ... CSS & JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Kuma_Kichi on toyhou.se!
 
